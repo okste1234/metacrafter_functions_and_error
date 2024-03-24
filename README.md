@@ -49,7 +49,10 @@ Once the contract is deployed, you can interact with it by calling the requireEr
 Adekunle Stephen  
 [@Okste1234](https://twitter.com/okste1234)
 
-
+## Loom(video) walkthrough
+```bash
+https://www.loom.com/share/62c4f8fadad14aec94ee38b2c50a5520?sid=33c6793d-07b0-4471-9a0a-e58ebf5c106f
+```
 ## License
 
 This project is licensed under the MIT License
